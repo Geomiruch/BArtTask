@@ -1,0 +1,6 @@
+@BArtTask_HostAddress = http://localhost:5054
+
+GET {{BArtTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
